@@ -1,0 +1,2 @@
+"Version.Number","Description","Route","Date.added","Date.modified"
+"3.9.2","iterated race is an extension of the iterated f-race method for the automatic configuration of optimization algorithms","./FileSystem/Files/Version/3.9.2/3.9.2","2022-06-16","2022-06-22"
